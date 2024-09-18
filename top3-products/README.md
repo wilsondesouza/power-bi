@@ -3,15 +3,14 @@
 ## 📒 Descrição
 Evolução de um material construído utilizando Power BI, com reestilização das páginas anteriormente construídas, somado com a inserção de valores filtrados pelas maiores vendas.
 Demonstra algumas informações extraídas de um dataset de exemplo disponibilizado pela própria plataforma.
-As informações são sobre vendas e lucros obtidos sobre principais produtos vendidos em diversas regiões geográficas, em um determinado período de tempo.
-**Acrescentada páginas com visuais sobre vendas por período, histograma de unidades vendidas, soma de vendas por produto (TOP 3), soma de vendas por segmento e por paí, total de lucros, de descontos e de unidades vendidas.**
+As informações são sobre vendas e lucros obtidos sobre principais produtos vendidos em diversas regiões geográficas, em um determinado período de tempo. 
+**Acrescentada páginas com visuais sobre vendas por período, histograma de unidades vendidas, soma de vendas por produto (TOP 3)**
 
 ![Primeira Página](assets/images/first_pag.png)
 ![Segunda Página](assets/images/second_pag.png)
 ![Terceira Página](assets/images/third_pag.png)
 ![Quarta Página](assets/images/fourth_pag.png)
 ![Quinta Página](assets/images/fifth_pag.png)
-![Sexta Página](assets/images/sixth_pag.png)
 
 ## 🔎 Saiba Mais
 - Material desenvolvido com o objetivo de concluir um desafio na plataforma de estudos [dio.me](https://web.dio.me)
@@ -21,7 +20,6 @@ As informações são sobre vendas e lucros obtidos sobre principais produtos ve
 - [Power BI Desktop](https://www.microsoft.com/pt-br/download/details.aspx?id=58494) - Para utilização do dataset e criação do dashboard
 - [Power BI Service](https://app.powerbi.com/) - Para publicação do material final
 - [Canva](https://www.canva.com/) - Para criação de um novo visual para o início do relatório
-
 
 ## ✨ Features
 - Primeira página com um novo visual, modelado utilizando a ferramenta Canva
@@ -36,8 +34,6 @@ As informações são sobre vendas e lucros obtidos sobre principais produtos ve
   - Lista de botões para iniciar, pausar, interromper e alterar período da animação de vendas por mês ao longo do ano.
 
 - Quinta página contendo visuais sobre soma de vendas por país e segmento, além de Lucro por soma de Vendas.
-  
-- Sexta página contendo visuais em parâmetros filtrados sobre total de vendas por países, segmentos, mêses e produtos. E outro visual sobre total de lucros, de unidades vendidas e metas por país.
 
 - Botões para avançar para a próxima página
 - Botões para retornar à página anterior
